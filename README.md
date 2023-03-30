@@ -42,6 +42,7 @@ The communication with FT4222 make use of a python library called python-ft4222 
    ./setup.sh
    ```
 
+## Notes
 
 The documentation of UMFT4222EV can be found [here](https://ftdichip.com/wp-content/uploads/2020/07/DS_UMFT4222EV.pdf)
 
