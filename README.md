@@ -20,8 +20,9 @@ The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 
 | JP4 PIN 8  - MISO  | CN6 PIN 2| MISO - GAP SDO  |
 | JP5 PIN 9  - SCK   | CN6 PIN 3| Serial Clock    |
 
+<div align="center">
 <img src="resources/FT4222EV_pinout.png " width="50%" height="50%">
-
+</div>
 ## Project setup
 
 The communication with FT4222 make use of a python library called python-ft4222 to download from github and set it up:
