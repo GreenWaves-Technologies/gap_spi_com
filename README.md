@@ -1,6 +1,6 @@
-# FT4222 SPI communication with GAP9
+# USB SPI bridge to GAP9
 
-This repository shows how to comunication between Gap9 and UMFT4222EV
+This repository shows how to communicate over SPI between GAP9EVK and UMFT4222EV. 
 
 
 ## Physical Connection
