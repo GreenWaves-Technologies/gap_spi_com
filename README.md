@@ -17,7 +17,7 @@ The UMFT4222EV board can be powered at 1.8V from GAP9EVK **removing J8 Jumper**.
 | MISO  - JP4 PIN 8  | CN6 PIN 2| MISO - GAP SDO  |
 | SCK   - JP5 PIN 9  | CN6 PIN 3| Serial Clock    |
 
-![UMFT4222EV](resources/FT4222EV_pinout.png)
+![UMFT4222EV](resources/FT4222EV_pinout.png | width=100)
 
 
 
