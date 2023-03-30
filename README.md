@@ -1,4 +1,4 @@
-# FT4222 SPI communication with Gap9
+# FT4222 SPI communication with GAP9
 
 This repository shows how to comunication between Gap9 and UMFT4222EV
 
@@ -10,7 +10,7 @@ The UMFT4222EV board can be powered at 1.8V from GAP9EVK **removing J8 Jumper**.
 
 The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 2:
 
-
+<div align="center">
 | UMFT4222EV         | Gap9EVK  | Description     |
 |--------------------|----------|-----------------|
 | JP5 PIN 1  - VCCIO | CN8 PIN 2| Gap  1.8V       |
@@ -19,6 +19,10 @@ The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 
 | JP4 PIN 7  - MOSI  | CN6 PIN 6| MOSI - GAP SDI  |
 | JP4 PIN 8  - MISO  | CN6 PIN 2| MISO - GAP SDO  |
 | JP5 PIN 9  - SCK   | CN6 PIN 3| Serial Clock    |
+</div>
+
+
+### FT4222EV pinout
 
 <div align="center">
 <img src="resources/FT4222EV_pinout.png " width="50%" height="50%">
