@@ -22,7 +22,7 @@ The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 
 ### FT4222EV pinout
 
 <div align="center">
-<img src="resources/FT4222EV_pinout.png" width="50%" height="50%">
+<img src="resources/FT4222EV_pinout.png" width="30%" height="30%">
 </div>
 
 
