@@ -5,7 +5,7 @@ This repository shows how to communicate over SPI between GAP9EVK and UMFT4222EV
 
 ## Physical Connection
 
-The UMFT4222EV Dev board permits to power the FT4222 IOs from 1.8v to 5v. GAP9EVK IOs are at 1.8v, thus to avoid using level shifter **REMOVE J8 JUMPER from UMFT4222EV** and use GAP9EVK 1.8v to power them. 
+The UMFT4222EV Dev board permits to power the FT4222 IOs from 1.8v to 5v. GAP9EVK IOs are at 1.8v, thus to avoid using level shifter **REMOVE J8 JUMPER from UMFT4222EV** and use GAP9EVK 1.8v to power FT4222 IOs. 
 
 
 The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 2:
