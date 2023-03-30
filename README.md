@@ -5,7 +5,7 @@ This repository shows how to comunication between Gap9 and UMFT4222EV
 
 ## Physical Connection
 
-The UMFT4222EV board can be powered at 1.8V from GAP9EVK **removing J8 Jumper**. Thus there is no need for level shifters.
+Before connecting with GAP9EVK, **REMOVE J8 JUMPERr** from UMFT4222EV. Thus there is no need for level shifters.
 
 
 The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 2:
