@@ -9,9 +9,16 @@ The UMFT4222EV board can be powered at 1.8V removing J8 and connecting
 
 
 
+|UMFT4222EV| Gap9EVK  |
+|----------|----------|
+| JP5  |CN8 PIN 2|
+|   |   |
+|   |   |
 
 
 
+
+![Drag Racing](resources/FT4222EV_pinout.png)
 
 
 
