@@ -13,7 +13,7 @@ The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 
 | UMFT4222EV         | Gap9EVK  | Description     |
 |--------------------|----------|-----------------|
 | JP5 PIN 1  - VCCIO | CN8 PIN 2| Gap  1.8V       |
-| JP5 PIN 12 - GND   | CN8 PIN 4| Gap  GND        |
+| JP5 PIN 12 - GND   | CN6 PIN 8| Gap  GND        |
 | JP4 PIN 9  - SS00  | CN6 PIN 7| Chip Select     |
 | JP4 PIN 7  - MOSI  | CN6 PIN 6| MOSI - GAP SDI  |
 | JP4 PIN 8  - MISO  | CN6 PIN 2| MISO - GAP SDO  |
