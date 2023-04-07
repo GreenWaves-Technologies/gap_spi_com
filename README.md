@@ -36,7 +36,14 @@ The following pin connections can be used to connect FT4222 BUS B with Gap9 SPI 
 
 ## Project setup
 
-The communication with FT4222 make use of a python library called python-ft4222 to download from github and set it up:
+The communication with FT4222 make use of a python library called python-ft4222 and some other libraries in python to install them:
+
+   ```sh
+
+   pip3 install -r requirements.txt
+   ```
+
+if you want to install python-ft4222 from source run: 
 
    ```sh
    ./setup.sh
